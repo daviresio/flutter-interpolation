@@ -9,5 +9,3 @@ Project used on flutter interpolation video and article. you can see then on lik
 
 ## contact
 daviresio@gmail.com
-<br><br>
-https://www.linkedin.com/in/davi-resio-4ba0b9136/
